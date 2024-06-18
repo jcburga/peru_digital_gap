@@ -1,0 +1,43 @@
+fps,Gender,Lugar de uso de acceso,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
+0,Total,Solo hogar,27.6,29,26.2,22.6,15.3,11.5,7.5,6.4,4.6,4.3,3.9
+0,Total,Solo trabajo,5.1,4.6,3.7,2.9,2.1,1.2,0.7,0.6,0.3,0.1,0.1
+0,Total,Solo centro educativo,1.4,1.5,1.6,1.7,1.4,1.2,1.1,0.8,0.1,0,0.2
+0,Total,Solo cabina,38.9,34.6,30.2,24.7,17.2,11.4,7.2,4.8,1.4,0.1,0.1
+0,Total,Solo otro lugar,5.6,7.9,11.6,14.8,0.3,0.2,0.2,0.2,0.2,0.2,0.2
+0,Total,Solo en casa de otra persona,0,0,0,3.2,2.2,1.4,1,1,0.4,0.5,0.4
+0,Total,Solo teléfono móvil,0,0,0,0,21.5,32,41.2,49.7,64.2,71.4,70
+0,Total,Hogar y trabajo,6,5,3.9,3.1,2,0.8,0.4,0.4,0.2,0.1,0.2
+0,Total,Hogar y teléfono móvil,0,0,0,0,13.1,16.4,16,14.8,17.6,16.9,16.5
+0,Total,Cabina y teléfono móvil,0,0,0,0,5.7,5.7,5.4,4.4,2.1,0.6,0.6
+0,Total,"Hogar, trabajo y teléfono móvil",0,0,0,0,6.3,6.2,6.4,5.3,3.3,2.1,2.8
+0,Total,Hogar y otro lugar,1.4,3.3,5.9,7.5,0,0,0,0,0.1,0,0
+0,Total,Cabina y otro lugar,2,2.7,4.1,4.2,0,0,0,0,0,0,0
+0,Total,En dos o más lugares 1/,11.9,11.3,12.9,15.3,13,12,12.8,11.7,5.5,3.5,4.9
+0,Mujeres,Solo hogar,31.7,32.8,29.1,25.3,17,12.2,7.9,6.6,4.4,4.4,4
+0,Mujeres,Solo trabajo,4.9,3.9,3.3,2.8,1.7,1.1,0.6,0.6,0.2,0.1,0.1
+0,Mujeres,Solo centro educativo,1.6,1.7,1.7,1.9,1.6,1.1,1,0.9,0.1,0,0.2
+0,Mujeres,Solo cabina,35.6,31.8,27.9,22.4,15.4,10.3,6.5,4.3,1.8,0.1,0.1
+0,Mujeres,Solo otro lugar,6.2,7.9,12,14.5,0.3,0.2,0.2,0.3,0.3,0.2,0.2
+0,Mujeres,Solo en casa de otra persona,0,0,0,3.4,2.7,1.5,1.1,1,0.4,0.4,0.4
+0,Mujeres,Solo teléfono móvil,0,0,0,0,21.7,32.6,42,50.6,63.6,71.7,70.3
+0,Mujeres,Hogar y trabajo,5.8,4.3,3.7,2.9,1.8,0.7,0.4,0.3,0.3,0.1,0.2
+0,Mujeres,Hogar y teléfono móvil,0,0,0,0,14.4,17.9,17.1,15.7,17,17.4,17.2
+0,Mujeres,Cabina y teléfono móvil,0,0,0,0,5,4.9,4.6,3.8,2.5,0.5,0.4
+0,Mujeres,"Hogar, trabajo y teléfono móvil",0,0,0,0,5.5,5.6,5.8,4.9,3.6,1.8,2.5
+0,Mujeres,Hogar y otro lugar,1.5,3.8,6.3,8.1,0,0,0,0,0,0,0
+0,Mujeres,Cabina y otro lugar,1.9,2.8,3.7,3.9,0,0,0,0,0,0,0
+0,Mujeres,En dos o más lugares 1/,10.8,10.9,12.2,14.7,12.8,12,13,11.2,5.8,3.3,4.5
+0,Hombres,Solo hogar,24.2,25.9,23.7,20.1,13.8,10.9,7.1,6.2,4.9,4.3,3.8
+0,Hombres,Solo trabajo,5.4,5.2,4,3.1,2.4,1.3,0.9,0.5,0.3,0.1,0.2
+0,Hombres,Solo centro educativo,1.3,1.4,1.5,1.5,1.1,1.2,1.2,0.8,0.2,0,0.1
+0,Hombres,Solo cabina,41.5,37,32.1,26.7,18.7,12.4,7.9,5.3,1,0.2,0.2
+0,Hombres,Solo otro lugar,5.2,7.9,11.1,15,0.3,0.1,0.2,0.2,0.2,0.3,0.2
+0,Hombres,Solo en casa de otra persona,0,0,0,3.1,1.7,1.3,0.9,1,0.4,0.5,0.3
+0,Hombres,Solo teléfono móvil,0,0,0,0,21.3,31.4,40.5,48.8,64.9,71.1,69.6
+0,Hombres,Hogar y trabajo,6.2,5.6,4.1,3.3,2.1,1,0.5,0.4,0.2,0.1,0.2
+0,Hombres,Hogar y teléfono móvil,0,0,0,0,11.8,15.1,15.1,14,18.2,16.5,15.9
+0,Hombres,Cabina y teléfono móvil,0,0,0,0,6.3,6.5,6.2,5,1.6,0.8,0.9
+0,Hombres,"Hogar, trabajo y teléfono móvil",0,0,0,0,7,6.7,6.9,5.8,2.9,2.4,3.2
+0,Hombres,Hogar y otro lugar,1.3,2.9,5.6,6.9,0,0,0,0,0.1,0,0
+0,Hombres,Cabina y otro lugar,2.1,2.6,4.4,4.4,0,0,0,0,0,0,0
+0,Hombres,En dos o más lugares 1/,12.8,11.6,13.4,15.9,13.2,12.1,12.7,12.1,5.2,3.6,5.3
